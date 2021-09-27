@@ -19,6 +19,10 @@ git push
 ```
 I used [Github Pages](https://pages.github.com/) to learn Markdown.
 
+[Back to Top](#rudy-zhang-markdown)
+
+[To see my readme file](README.md)
+
 ![This is a cat!](https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=42132184edabf489cb379824f3da6f61)
 
 My grocery list:
