@@ -43,6 +43,4 @@ My task list:
 - [X] Eat food
 - [ ] \(Optional) Do work
 
-@Deven What do you think these changes[^1]?
-
-[^1]: They're bad
+@Deven What do you think these changes? :smile:
