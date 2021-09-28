@@ -1,5 +1,7 @@
 ## Rudy Zhang Markdown 
 
+![Dog](/screenshots/dog.jpg)
+
 **I like bold text**
 *Italicized text is nice too*
 ~~oops~~
